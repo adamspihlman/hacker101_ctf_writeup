@@ -19,6 +19,6 @@
 ### Flag3 ###
 
 1. Create a page with any text as the title
-2. Enter the body of the page as '\<body onload=alert(1)\>\</body\>'
-3. Upon submitting the page, the flag should appear
+2. Enter the body of the page as '\<body onload='alert(1)'\>\</body\>'
+3. Upon submitting the page, the flag should appear in the source of the page. It may not be visible on the page itself.
 
